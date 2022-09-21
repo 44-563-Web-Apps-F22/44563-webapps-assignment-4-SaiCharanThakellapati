@@ -109,14 +109,16 @@ table:hover{
         color: red;
       }
 
-    .move {
-        width: 10px;
-        height: 10px;
-        background: red;
-        transition: width 2s;
-      }
-      
-    move:hover {
-        width: 30px;
-      }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: silver;
+}
+
+li {
+    float: left;
+    padding: 15px;
+}
 
