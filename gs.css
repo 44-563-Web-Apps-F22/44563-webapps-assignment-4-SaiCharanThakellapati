@@ -1,0 +1,81 @@
+h1
+{
+color:crimson;
+font-family:Arial, Helvetica, sans-serif;
+font-size: xx-large;
+text-align: center;
+}
+h2{
+    color:crimson;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+
+h3{
+    color:crimson;
+font-family:Arial, Helvetica, sans-serif;
+font-size:x-large;
+text-align: center;
+}
+
+h4{
+    color:black;
+font-size:x-large;
+/*text-align: center;*/
+}
+h5{
+    color:black;
+font-family:Arial, Helvetica, sans-serif;
+font-size:x-large;
+}
+
+p{
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:medium;
+    font-style: italic;
+    /*text-align: center;*/
+}
+p:hover {
+    background-color:yellowgreen;
+  }
+
+
+body {
+    background-image: url("img.jpg");
+    background-size : 2000px 8000px;
+    background-repeat : no-repeat, repeat;
+    /*background-position : center;*/
+    /*background-position : 50% 50%;*/
+}
+span{
+    color:blue;
+}
+
+span:hover{
+    background-color:aquamarine;
+}
+
+.chorus{
+    font-size:12px;
+    color:orange;
+    }
+.dis{
+        font-size:30px;
+        font-family:Arial, Helvetica, sans-serif;
+        color:deepskyblue;
+    }
+.character{
+        font-size:15px;
+        color:burlywood;
+    }
+    
+table, th, td {
+        border: 1px solid;
+      }
+table.center {
+        margin-left: auto; 
+        margin-right: auto;
+      }
+     
+
