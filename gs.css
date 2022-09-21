@@ -121,4 +121,15 @@ li {
     float: left;
     padding: 15px;
 }
+i{
+    padding: 30px;
+    margin: 10px 0;
+}
+i:hover{
+    background-color: #fff;
+}
+
+.c{
+    text-align: right;
+}
 
